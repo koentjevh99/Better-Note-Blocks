@@ -1,0 +1,194 @@
+{
+  "music_box": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:music_box" ]
+  },
+  "elec_guitar": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:elec_guitar" ]
+  },
+  "hi_hat": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:hi_hat" ]
+  },
+  "synth_stab": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:synth_stab" ]
+  },
+  "kick_stomp": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:kick_stomp" ]
+  },
+  "orchestral_hit": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:orchestral_hit" ]
+  },
+  "metal_pipe": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:metal_pipe" ]
+  },
+  "brawl_kick": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:brawl_kick" ]
+  },
+  "crash": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:crash" ]
+  },
+  "acoustic_tom": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:acoustic_tom" ]
+  },
+  "holy_choir": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:holy_choir" ]
+  },
+  "wood_block": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:wood_block" ]
+  },
+  "hardstyle_kick_buzzed": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:hardstyle_kick_buzzed" ]
+  },
+  "triangle": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:triangle" ]
+  },
+  "synth_bass": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:synth_bass" ]
+  },
+  "ba": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:ba" ]
+  },
+  "timpani": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:timpani" ]
+  },
+  "psy_drum_hit_aztek": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:psy_drum_hit_aztek" ]
+  },
+  "bloop_noise": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:bloop_noise" ]
+  },
+  "snare": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:snare" ]
+  },
+  "kalimba": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:kalimba" ]
+  },
+  "afro_harp": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:afro_harp" ]
+  },
+  "phonk_cowbell_crystal": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:phonk_cowbell_crystal" ]
+  },
+  "dry_finger_snap": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:dry_finger_snap" ]
+  },
+  "bongo": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:bongo" ]
+  },
+  "classic_clap": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:classic_clap" ]
+  },
+  "tambourine": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:tambourine" ]
+  },
+  "groan_tube": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:groan_tube"]
+  },
+  "gong": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [ "betternoteblocks:gong"]
+  },
+
+  "flanged_sawtooth_subbass_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:flanged_sawtooth_synth_sustain/subbass_lo", "volume": 0.25, "attenuation_distance": 64 } ] },
+  "flanged_sawtooth_subbass_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:flanged_sawtooth_synth_sustain/subbass_hi", "volume": 0.25, "attenuation_distance": 64 } ] },
+  "flanged_sawtooth_bass_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:flanged_sawtooth_synth_sustain/bass_lo", "volume": 0.25, "attenuation_distance": 64 } ] },
+  "flanged_sawtooth_bass_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:flanged_sawtooth_synth_sustain/bass_hi", "volume": 0.25, "attenuation_distance": 64 } ] },
+  "flanged_sawtooth_mid_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:flanged_sawtooth_synth_sustain/mid_lo", "volume": 0.25, "attenuation_distance": 64 } ] },
+  "flanged_sawtooth_mid_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:flanged_sawtooth_synth_sustain/mid_hi", "volume": 0.25, "attenuation_distance": 64 } ] },
+  "flanged_sawtooth_lead_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:flanged_sawtooth_synth_sustain/lead_lo", "volume": 0.25, "attenuation_distance": 64 } ] },
+  "flanged_sawtooth_lead_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:flanged_sawtooth_synth_sustain/lead_hi", "volume": 0.25, "attenuation_distance": 64 } ] },
+  "flanged_sawtooth_air_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:flanged_sawtooth_synth_sustain/air_lo", "volume": 0.25, "attenuation_distance": 64 } ] },
+  "flanged_sawtooth_air_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:flanged_sawtooth_synth_sustain/air_hi", "volume": 0.25, "attenuation_distance": 64 } ] },
+
+
+  "ym_electone_trombone_subbass_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:ym_electone_trombone/subbass_lo", "volume": 1, "attenuation_distance": 64 } ] },
+  "ym_electone_trombone_subbass_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:ym_electone_trombone/subbass_hi", "volume": 1, "attenuation_distance": 64 } ] },
+  "ym_electone_trombone_bass_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:ym_electone_trombone/bass_lo", "volume": 1, "attenuation_distance": 64 } ] },
+  "ym_electone_trombone_bass_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:ym_electone_trombone/bass_hi", "volume": 1, "attenuation_distance": 64 } ] },
+  "ym_electone_trombone_mid_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:ym_electone_trombone/mid_lo", "volume": 1, "attenuation_distance": 64 } ] },
+  "ym_electone_trombone_mid_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:ym_electone_trombone/mid_hi", "volume": 1, "attenuation_distance": 64 } ] },
+  "ym_electone_trombone_lead_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:ym_electone_trombone/lead_lo", "volume": 1, "attenuation_distance": 64 } ] },
+  "ym_electone_trombone_lead_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:ym_electone_trombone/lead_hi", "volume": 1, "attenuation_distance": 64 } ] },
+  "ym_electone_trombone_air_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:ym_electone_trombone/air_lo", "volume": 1, "attenuation_distance": 64 } ] },
+  "ym_electone_trombone_air_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:ym_electone_trombone/air_hi", "volume": 1, "attenuation_distance": 64 } ] },
+
+
+  "gb_sqr_subbass_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_sqr/subbass_lo", "volume": 1, "attenuation_distance": 64 } ] },
+  "gb_sqr_subbass_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_sqr/subbass_hi", "volume": 1, "attenuation_distance": 64 } ] },
+  "gb_sqr_bass_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_sqr/bass_lo", "volume": 1, "attenuation_distance": 64 } ] },
+  "gb_sqr_bass_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_sqr/bass_hi", "volume": 1, "attenuation_distance": 64 } ] },
+  "gb_sqr_mid_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_sqr/mid_lo", "volume": 1, "attenuation_distance": 64 } ] },
+  "gb_sqr_mid_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_sqr/mid_hi", "volume": 1, "attenuation_distance": 64 } ] },
+  "gb_sqr_lead_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_sqr/lead_lo", "volume": 1, "attenuation_distance": 64 } ] },
+  "gb_sqr_lead_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_sqr/lead_hi", "volume": 1, "attenuation_distance": 64 } ] },
+  "gb_sqr_air_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_sqr/air_lo", "volume": 1, "attenuation_distance": 64 } ] },
+  "gb_sqr_air_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_sqr/air_hi", "volume": 1, "attenuation_distance": 64 } ] },
+
+
+  "gb_saw_subbass_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_saw/subbass_lo", "volume": 1, "attenuation_distance": 64 } ] },
+  "gb_saw_subbass_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_saw/subbass_hi", "volume": 1, "attenuation_distance": 64 } ] },
+  "gb_saw_bass_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_saw/bass_lo", "volume": 1, "attenuation_distance": 64 } ] },
+  "gb_saw_bass_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_saw/bass_hi", "volume": 1, "attenuation_distance": 64 } ] },
+  "gb_saw_mid_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_saw/mid_lo", "volume": 1, "attenuation_distance": 64 } ] },
+  "gb_saw_mid_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_saw/mid_hi", "volume": 1, "attenuation_distance": 64 } ] },
+  "gb_saw_lead_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_saw/lead_lo", "volume": 1, "attenuation_distance": 64 } ] },
+  "gb_saw_lead_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_saw/lead_hi", "volume": 1, "attenuation_distance": 64 } ] },
+  "gb_saw_air_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_saw/air_lo", "volume": 1, "attenuation_distance": 64 } ] },
+  "gb_saw_air_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_saw/air_hi", "volume": 1, "attenuation_distance": 64 } ] }
+}

@@ -1,0 +1,29 @@
+{
+  "parent": "betternoteblocks:colorful_notes",
+  "criteria": {
+    "played_groan_tube": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancement.betternoteblocks.groan_tube.desc"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "minecraft:slime_ball"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancement.betternoteblocks.groan_tube"
+    }
+  },
+  "requirements": [
+    [
+      "played_groan_tube"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

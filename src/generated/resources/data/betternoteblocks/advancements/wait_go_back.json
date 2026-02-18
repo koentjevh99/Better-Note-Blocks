@@ -1,0 +1,29 @@
+{
+  "parent": "betternoteblocks:colorful_notes",
+  "criteria": {
+    "shifted_note": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancement.betternoteblocks.wait_go_back.desc"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:recovery_compass"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancement.betternoteblocks.wait_go_back"
+    }
+  },
+  "requirements": [
+    [
+      "shifted_note"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

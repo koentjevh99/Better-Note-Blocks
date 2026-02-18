@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "betternoteblocks:purple_note_block"
+    }
+  ],
+  "result": {
+    "item": "minecraft:note_block"
+  }
+}

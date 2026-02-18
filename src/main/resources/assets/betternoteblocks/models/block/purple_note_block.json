@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "betternoteblocks:block/purple_note_block"
+  }
+}
