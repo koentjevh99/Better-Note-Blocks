@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/note_block",
+  "textures": {
+    "particle": "betternoteblocks:block/rainbow_note_block",
+    "all": "betternoteblocks:block/rainbow_note_block"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "betternoteblocks:block/light_blue_note_0",
+  "overrides": [
+    {
+      "model": "betternoteblocks:block/rainbow_note_block",
+      "predicate": {
+        "betternoteblocks:instrument": 1.0
+      }
+    }
+  ]
+}

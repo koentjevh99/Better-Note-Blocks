@@ -1,0 +1,36 @@
+{
+  "criteria": {
+    "has_colored_noteblock": {
+      "conditions": {
+        "items": [
+          {
+            "tag": "betternoteblocks:colored_note_blocks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": "minecraft:textures/block/stone_bricks.png",
+    "description": {
+      "translate": "advancement.betternoteblocks.colorful_notes.desc"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "betternoteblocks:red_note_block"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancement.betternoteblocks.colorful_notes"
+    }
+  },
+  "requirements": [
+    [
+      "has_colored_noteblock"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "instrument=rainbow": {
+      "model": "betternoteblocks:block/rainbow_note_block"
+    },
+    "": {
+      "model": "minecraft:block/note_block"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_colored_noteblock": {
+      "conditions": {
+        "items": [
+          {
+            "tag": "betternoteblocks:colored_note_blocks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "betternoteblocks:magenta_from_recoloring"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_colored_noteblock",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "betternoteblocks:magenta_from_recoloring"
+    ]
+  },
+  "sends_telemetry_event": false
+}

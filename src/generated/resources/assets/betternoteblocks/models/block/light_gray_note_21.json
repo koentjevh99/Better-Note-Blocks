@@ -1,0 +1,7 @@
+{
+  "parent": "betternoteblocks:block/layered_note_block",
+  "textures": {
+    "base": "betternoteblocks:block/light_gray_note_block",
+    "note": "betternoteblocks:block/note/white/note_21"
+  }
+}

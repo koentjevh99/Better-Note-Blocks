@@ -1,0 +1,29 @@
+{
+  "parent": "betternoteblocks:full_palette",
+  "criteria": {
+    "has_rainbow_block": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancement.betternoteblocks.found_a_bug.desc"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "minecraft:beacon"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancement.betternoteblocks.found_a_bug"
+    }
+  },
+  "requirements": [
+    [
+      "has_rainbow_block"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

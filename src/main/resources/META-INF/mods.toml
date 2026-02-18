@@ -1,0 +1,28 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+license = "MIT"
+mixin.config = "betternoteblocks.mixins.json"
+
+[[mods]]
+modId = "betternoteblocks"
+version = "1.0.0"
+displayName = "Better Note Blocks"
+authors = "Koentje"
+description = '''
+Adds 15 new note block colors, tons of new instruments, and quality-of-life improvements.
+'''
+
+[[dependencies.betternoteblocks]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.betternoteblocks]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
+

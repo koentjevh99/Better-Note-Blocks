@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "has_colored_noteblock": {
+      "conditions": {
+        "items": [
+          {
+            "tag": "betternoteblocks:colored_note_blocks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Obtain your first colored note block"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "betternoteblocks:red_note_block"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Colorful Notes!"
+    }
+  },
+  "requirements": [
+    [
+      "has_colored_noteblock"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

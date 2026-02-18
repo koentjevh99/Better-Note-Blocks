@@ -1,0 +1,7 @@
+{
+  "parent": "betternoteblocks:block/layered_note_block",
+  "textures": {
+    "base": "minecraft:block/note_block",
+    "note": "betternoteblocks:block/note/light/note_24"
+  }
+}
