@@ -25,6 +25,7 @@
   (Also toggleable via `/togglenoteblockoverlay`).
 * **Backwards Tuning:** Hold Shift and right-click to tune blocks backwards.
 * **Easy copying:** Middle-click to copy a note block without resetting its pitch.
+* **Works when covered:** Putting a block on top won’t stop it from playing.
 * **Compatible with Rosen:** This mod is inspired by and is compatible with Rosen by Violunae and Firch!
   If any instrument blocks are also used by Rosen, my mod takes priority as I am only using 1 block per instrument.
 
@@ -93,6 +94,14 @@ Using this together with Better Note Blocks lets you play any MIDI file!
 | Mod  | Block          | Instrument | Range       |
 |:-----|:---------------|:-----------|:------------|
 | Baba | **Baba Block** | Ba         | F#BA - F#BA |
+
+---
+
+## Crafting colored note blocks
+
+* Colored note blocks share the same crafting recipe as colored wool, so using any dye next to any note block (colored /
+  vanilla) will work.
+* If you put a colored note block in your crafting grid, you will get a regular one back.
 
 ---
 
