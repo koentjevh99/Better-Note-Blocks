@@ -5100,6 +5100,156 @@
     "instrument=guitar,note=9,powered=true": {
       "model": "betternoteblocks:block/green_note_9"
     },
+    "instrument=hard_punchy_kick,note=0,powered=false": {
+      "model": "betternoteblocks:block/green_note_0"
+    },
+    "instrument=hard_punchy_kick,note=0,powered=true": {
+      "model": "betternoteblocks:block/green_note_0"
+    },
+    "instrument=hard_punchy_kick,note=1,powered=false": {
+      "model": "betternoteblocks:block/green_note_1"
+    },
+    "instrument=hard_punchy_kick,note=1,powered=true": {
+      "model": "betternoteblocks:block/green_note_1"
+    },
+    "instrument=hard_punchy_kick,note=10,powered=false": {
+      "model": "betternoteblocks:block/green_note_10"
+    },
+    "instrument=hard_punchy_kick,note=10,powered=true": {
+      "model": "betternoteblocks:block/green_note_10"
+    },
+    "instrument=hard_punchy_kick,note=11,powered=false": {
+      "model": "betternoteblocks:block/green_note_11"
+    },
+    "instrument=hard_punchy_kick,note=11,powered=true": {
+      "model": "betternoteblocks:block/green_note_11"
+    },
+    "instrument=hard_punchy_kick,note=12,powered=false": {
+      "model": "betternoteblocks:block/green_note_12"
+    },
+    "instrument=hard_punchy_kick,note=12,powered=true": {
+      "model": "betternoteblocks:block/green_note_12"
+    },
+    "instrument=hard_punchy_kick,note=13,powered=false": {
+      "model": "betternoteblocks:block/green_note_13"
+    },
+    "instrument=hard_punchy_kick,note=13,powered=true": {
+      "model": "betternoteblocks:block/green_note_13"
+    },
+    "instrument=hard_punchy_kick,note=14,powered=false": {
+      "model": "betternoteblocks:block/green_note_14"
+    },
+    "instrument=hard_punchy_kick,note=14,powered=true": {
+      "model": "betternoteblocks:block/green_note_14"
+    },
+    "instrument=hard_punchy_kick,note=15,powered=false": {
+      "model": "betternoteblocks:block/green_note_15"
+    },
+    "instrument=hard_punchy_kick,note=15,powered=true": {
+      "model": "betternoteblocks:block/green_note_15"
+    },
+    "instrument=hard_punchy_kick,note=16,powered=false": {
+      "model": "betternoteblocks:block/green_note_16"
+    },
+    "instrument=hard_punchy_kick,note=16,powered=true": {
+      "model": "betternoteblocks:block/green_note_16"
+    },
+    "instrument=hard_punchy_kick,note=17,powered=false": {
+      "model": "betternoteblocks:block/green_note_17"
+    },
+    "instrument=hard_punchy_kick,note=17,powered=true": {
+      "model": "betternoteblocks:block/green_note_17"
+    },
+    "instrument=hard_punchy_kick,note=18,powered=false": {
+      "model": "betternoteblocks:block/green_note_18"
+    },
+    "instrument=hard_punchy_kick,note=18,powered=true": {
+      "model": "betternoteblocks:block/green_note_18"
+    },
+    "instrument=hard_punchy_kick,note=19,powered=false": {
+      "model": "betternoteblocks:block/green_note_19"
+    },
+    "instrument=hard_punchy_kick,note=19,powered=true": {
+      "model": "betternoteblocks:block/green_note_19"
+    },
+    "instrument=hard_punchy_kick,note=2,powered=false": {
+      "model": "betternoteblocks:block/green_note_2"
+    },
+    "instrument=hard_punchy_kick,note=2,powered=true": {
+      "model": "betternoteblocks:block/green_note_2"
+    },
+    "instrument=hard_punchy_kick,note=20,powered=false": {
+      "model": "betternoteblocks:block/green_note_20"
+    },
+    "instrument=hard_punchy_kick,note=20,powered=true": {
+      "model": "betternoteblocks:block/green_note_20"
+    },
+    "instrument=hard_punchy_kick,note=21,powered=false": {
+      "model": "betternoteblocks:block/green_note_21"
+    },
+    "instrument=hard_punchy_kick,note=21,powered=true": {
+      "model": "betternoteblocks:block/green_note_21"
+    },
+    "instrument=hard_punchy_kick,note=22,powered=false": {
+      "model": "betternoteblocks:block/green_note_22"
+    },
+    "instrument=hard_punchy_kick,note=22,powered=true": {
+      "model": "betternoteblocks:block/green_note_22"
+    },
+    "instrument=hard_punchy_kick,note=23,powered=false": {
+      "model": "betternoteblocks:block/green_note_23"
+    },
+    "instrument=hard_punchy_kick,note=23,powered=true": {
+      "model": "betternoteblocks:block/green_note_23"
+    },
+    "instrument=hard_punchy_kick,note=24,powered=false": {
+      "model": "betternoteblocks:block/green_note_24"
+    },
+    "instrument=hard_punchy_kick,note=24,powered=true": {
+      "model": "betternoteblocks:block/green_note_24"
+    },
+    "instrument=hard_punchy_kick,note=3,powered=false": {
+      "model": "betternoteblocks:block/green_note_3"
+    },
+    "instrument=hard_punchy_kick,note=3,powered=true": {
+      "model": "betternoteblocks:block/green_note_3"
+    },
+    "instrument=hard_punchy_kick,note=4,powered=false": {
+      "model": "betternoteblocks:block/green_note_4"
+    },
+    "instrument=hard_punchy_kick,note=4,powered=true": {
+      "model": "betternoteblocks:block/green_note_4"
+    },
+    "instrument=hard_punchy_kick,note=5,powered=false": {
+      "model": "betternoteblocks:block/green_note_5"
+    },
+    "instrument=hard_punchy_kick,note=5,powered=true": {
+      "model": "betternoteblocks:block/green_note_5"
+    },
+    "instrument=hard_punchy_kick,note=6,powered=false": {
+      "model": "betternoteblocks:block/green_note_6"
+    },
+    "instrument=hard_punchy_kick,note=6,powered=true": {
+      "model": "betternoteblocks:block/green_note_6"
+    },
+    "instrument=hard_punchy_kick,note=7,powered=false": {
+      "model": "betternoteblocks:block/green_note_7"
+    },
+    "instrument=hard_punchy_kick,note=7,powered=true": {
+      "model": "betternoteblocks:block/green_note_7"
+    },
+    "instrument=hard_punchy_kick,note=8,powered=false": {
+      "model": "betternoteblocks:block/green_note_8"
+    },
+    "instrument=hard_punchy_kick,note=8,powered=true": {
+      "model": "betternoteblocks:block/green_note_8"
+    },
+    "instrument=hard_punchy_kick,note=9,powered=false": {
+      "model": "betternoteblocks:block/green_note_9"
+    },
+    "instrument=hard_punchy_kick,note=9,powered=true": {
+      "model": "betternoteblocks:block/green_note_9"
+    },
     "instrument=hardstyle_kick_buzzed,note=0,powered=false": {
       "model": "betternoteblocks:block/green_note_0"
     },
@@ -8248,6 +8398,156 @@
       "model": "betternoteblocks:block/green_note_9"
     },
     "instrument=saxophone,note=9,powered=true": {
+      "model": "betternoteblocks:block/green_note_9"
+    },
+    "instrument=saxophone_synth,note=0,powered=false": {
+      "model": "betternoteblocks:block/green_note_0"
+    },
+    "instrument=saxophone_synth,note=0,powered=true": {
+      "model": "betternoteblocks:block/green_note_0"
+    },
+    "instrument=saxophone_synth,note=1,powered=false": {
+      "model": "betternoteblocks:block/green_note_1"
+    },
+    "instrument=saxophone_synth,note=1,powered=true": {
+      "model": "betternoteblocks:block/green_note_1"
+    },
+    "instrument=saxophone_synth,note=10,powered=false": {
+      "model": "betternoteblocks:block/green_note_10"
+    },
+    "instrument=saxophone_synth,note=10,powered=true": {
+      "model": "betternoteblocks:block/green_note_10"
+    },
+    "instrument=saxophone_synth,note=11,powered=false": {
+      "model": "betternoteblocks:block/green_note_11"
+    },
+    "instrument=saxophone_synth,note=11,powered=true": {
+      "model": "betternoteblocks:block/green_note_11"
+    },
+    "instrument=saxophone_synth,note=12,powered=false": {
+      "model": "betternoteblocks:block/green_note_12"
+    },
+    "instrument=saxophone_synth,note=12,powered=true": {
+      "model": "betternoteblocks:block/green_note_12"
+    },
+    "instrument=saxophone_synth,note=13,powered=false": {
+      "model": "betternoteblocks:block/green_note_13"
+    },
+    "instrument=saxophone_synth,note=13,powered=true": {
+      "model": "betternoteblocks:block/green_note_13"
+    },
+    "instrument=saxophone_synth,note=14,powered=false": {
+      "model": "betternoteblocks:block/green_note_14"
+    },
+    "instrument=saxophone_synth,note=14,powered=true": {
+      "model": "betternoteblocks:block/green_note_14"
+    },
+    "instrument=saxophone_synth,note=15,powered=false": {
+      "model": "betternoteblocks:block/green_note_15"
+    },
+    "instrument=saxophone_synth,note=15,powered=true": {
+      "model": "betternoteblocks:block/green_note_15"
+    },
+    "instrument=saxophone_synth,note=16,powered=false": {
+      "model": "betternoteblocks:block/green_note_16"
+    },
+    "instrument=saxophone_synth,note=16,powered=true": {
+      "model": "betternoteblocks:block/green_note_16"
+    },
+    "instrument=saxophone_synth,note=17,powered=false": {
+      "model": "betternoteblocks:block/green_note_17"
+    },
+    "instrument=saxophone_synth,note=17,powered=true": {
+      "model": "betternoteblocks:block/green_note_17"
+    },
+    "instrument=saxophone_synth,note=18,powered=false": {
+      "model": "betternoteblocks:block/green_note_18"
+    },
+    "instrument=saxophone_synth,note=18,powered=true": {
+      "model": "betternoteblocks:block/green_note_18"
+    },
+    "instrument=saxophone_synth,note=19,powered=false": {
+      "model": "betternoteblocks:block/green_note_19"
+    },
+    "instrument=saxophone_synth,note=19,powered=true": {
+      "model": "betternoteblocks:block/green_note_19"
+    },
+    "instrument=saxophone_synth,note=2,powered=false": {
+      "model": "betternoteblocks:block/green_note_2"
+    },
+    "instrument=saxophone_synth,note=2,powered=true": {
+      "model": "betternoteblocks:block/green_note_2"
+    },
+    "instrument=saxophone_synth,note=20,powered=false": {
+      "model": "betternoteblocks:block/green_note_20"
+    },
+    "instrument=saxophone_synth,note=20,powered=true": {
+      "model": "betternoteblocks:block/green_note_20"
+    },
+    "instrument=saxophone_synth,note=21,powered=false": {
+      "model": "betternoteblocks:block/green_note_21"
+    },
+    "instrument=saxophone_synth,note=21,powered=true": {
+      "model": "betternoteblocks:block/green_note_21"
+    },
+    "instrument=saxophone_synth,note=22,powered=false": {
+      "model": "betternoteblocks:block/green_note_22"
+    },
+    "instrument=saxophone_synth,note=22,powered=true": {
+      "model": "betternoteblocks:block/green_note_22"
+    },
+    "instrument=saxophone_synth,note=23,powered=false": {
+      "model": "betternoteblocks:block/green_note_23"
+    },
+    "instrument=saxophone_synth,note=23,powered=true": {
+      "model": "betternoteblocks:block/green_note_23"
+    },
+    "instrument=saxophone_synth,note=24,powered=false": {
+      "model": "betternoteblocks:block/green_note_24"
+    },
+    "instrument=saxophone_synth,note=24,powered=true": {
+      "model": "betternoteblocks:block/green_note_24"
+    },
+    "instrument=saxophone_synth,note=3,powered=false": {
+      "model": "betternoteblocks:block/green_note_3"
+    },
+    "instrument=saxophone_synth,note=3,powered=true": {
+      "model": "betternoteblocks:block/green_note_3"
+    },
+    "instrument=saxophone_synth,note=4,powered=false": {
+      "model": "betternoteblocks:block/green_note_4"
+    },
+    "instrument=saxophone_synth,note=4,powered=true": {
+      "model": "betternoteblocks:block/green_note_4"
+    },
+    "instrument=saxophone_synth,note=5,powered=false": {
+      "model": "betternoteblocks:block/green_note_5"
+    },
+    "instrument=saxophone_synth,note=5,powered=true": {
+      "model": "betternoteblocks:block/green_note_5"
+    },
+    "instrument=saxophone_synth,note=6,powered=false": {
+      "model": "betternoteblocks:block/green_note_6"
+    },
+    "instrument=saxophone_synth,note=6,powered=true": {
+      "model": "betternoteblocks:block/green_note_6"
+    },
+    "instrument=saxophone_synth,note=7,powered=false": {
+      "model": "betternoteblocks:block/green_note_7"
+    },
+    "instrument=saxophone_synth,note=7,powered=true": {
+      "model": "betternoteblocks:block/green_note_7"
+    },
+    "instrument=saxophone_synth,note=8,powered=false": {
+      "model": "betternoteblocks:block/green_note_8"
+    },
+    "instrument=saxophone_synth,note=8,powered=true": {
+      "model": "betternoteblocks:block/green_note_8"
+    },
+    "instrument=saxophone_synth,note=9,powered=false": {
+      "model": "betternoteblocks:block/green_note_9"
+    },
+    "instrument=saxophone_synth,note=9,powered=true": {
       "model": "betternoteblocks:block/green_note_9"
     },
     "instrument=sitar,note=0,powered=false": {

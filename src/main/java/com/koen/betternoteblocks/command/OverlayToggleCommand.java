@@ -35,37 +35,39 @@ public class OverlayToggleCommand {
         // Basic
         INSTRUMENT_CACHE.put(Blocks.AMETHYST_BLOCK, new InstrumentInfo("Music Box", "F#4 - F#6"));
         INSTRUMENT_CACHE.put(Blocks.REDSTONE_ORE, new InstrumentInfo("Electric Guitar", "F#3 - F#5"));
-        INSTRUMENT_CACHE.put(Blocks.BLACK_STAINED_GLASS, new InstrumentInfo("Hi-Hat", "F#3 - F#5"));
+        INSTRUMENT_CACHE.put(Blocks.BLACK_STAINED_GLASS, new InstrumentInfo("Hi-Hat", "F#6 - F#8"));
         INSTRUMENT_CACHE.put(Blocks.OBSIDIAN, new InstrumentInfo("Synth Stab", "F#3 - F#5"));
         INSTRUMENT_CACHE.put(Blocks.DEEPSLATE, new InstrumentInfo("Kick Stomp", "F#2 - F#4"));
-        INSTRUMENT_CACHE.put(Blocks.GILDED_BLACKSTONE, new InstrumentInfo("Orchestral Hit", "F#4 - F#6"));
+        INSTRUMENT_CACHE.put(Blocks.GILDED_BLACKSTONE, new InstrumentInfo("Orchestral Hit", "F#3 - F#5"));
         INSTRUMENT_CACHE.put(Blocks.NETHERITE_BLOCK, new InstrumentInfo("Metal Pipe", "F#4 - F#6"));
-        INSTRUMENT_CACHE.put(Blocks.SANDSTONE, new InstrumentInfo("Brawl Kick", "F#2 - F#4"));
+        INSTRUMENT_CACHE.put(Blocks.SANDSTONE, new InstrumentInfo("Brawl Kick", "F#1 - F#3"));
         INSTRUMENT_CACHE.put(Blocks.RAW_COPPER_BLOCK, new InstrumentInfo("Crash", "F#1 - F#3"));
         INSTRUMENT_CACHE.put(Blocks.BEEHIVE, new InstrumentInfo("Acoustic Tom", "F#1 - F#3"));
         INSTRUMENT_CACHE.put(Blocks.CAULDRON, new InstrumentInfo("Holy Choir", "F#4 - F#6"));
-        INSTRUMENT_CACHE.put(Blocks.COMPOSTER, new InstrumentInfo("Wood Block", "F#2 - F#4"));
-        INSTRUMENT_CACHE.put(Blocks.POLISHED_BASALT, new InstrumentInfo("Hardstyle Kick", "F#1 - F#3"));
+        INSTRUMENT_CACHE.put(Blocks.COMPOSTER, new InstrumentInfo("Wood Block", "F#4 - F#6"));
+        INSTRUMENT_CACHE.put(Blocks.POLISHED_BASALT, new InstrumentInfo("Hardstyle Kick", "F#0 - F#2"));
         INSTRUMENT_CACHE.put(Blocks.DIAMOND_BLOCK, new InstrumentInfo("Triangle", "F#6 - F#8"));
         INSTRUMENT_CACHE.put(Blocks.REINFORCED_DEEPSLATE, new InstrumentInfo("Synth Bass", "F#0 - F#2"));
-        INSTRUMENT_CACHE.put(Blocks.LODESTONE, new InstrumentInfo("Timpani", "F#1 - F#3"));
+        INSTRUMENT_CACHE.put(Blocks.LODESTONE, new InstrumentInfo("Timpani", "F#2 - F#4"));
         INSTRUMENT_CACHE.put(Blocks.CHISELED_STONE_BRICKS, new InstrumentInfo("Aztek Psy Drum", "F#3 - F#5"));
-        INSTRUMENT_CACHE.put(Blocks.WET_SPONGE, new InstrumentInfo("Bloop Noise", "F#3 - F#5"));
-        INSTRUMENT_CACHE.put(Blocks.RED_SAND, new InstrumentInfo("Snare", "F#3 - F#5"));
-        INSTRUMENT_CACHE.put(Blocks.SEA_LANTERN, new InstrumentInfo("Kalimba", "F#2 - F#4"));
+        INSTRUMENT_CACHE.put(Blocks.WET_SPONGE, new InstrumentInfo("Bloop Noise", "F#4 - F#6"));
+        INSTRUMENT_CACHE.put(Blocks.RED_SAND, new InstrumentInfo("Snare", "F#4 - F#6"));
+        INSTRUMENT_CACHE.put(Blocks.SEA_LANTERN, new InstrumentInfo("Kalimba", "F#3 - F#5"));
         INSTRUMENT_CACHE.put(Blocks.CALCITE, new InstrumentInfo("Finger Snap", "F#5 - F#7"));
         INSTRUMENT_CACHE.put(Blocks.GRAVEL, new InstrumentInfo("Classic Clap", "F#3 - F#5"));
         INSTRUMENT_CACHE.put(Blocks.OCHRE_FROGLIGHT, new InstrumentInfo("Bongo", "F#2 - F#4"));
         INSTRUMENT_CACHE.put(Blocks.LOOM, new InstrumentInfo("Afro Harp", "F#2 - F#4"));
         INSTRUMENT_CACHE.put(Blocks.WHITE_GLAZED_TERRACOTTA, new InstrumentInfo("Phonk Cowbell Crystal", "F#4 - F#6"));
-        INSTRUMENT_CACHE.put(Blocks.BREWING_STAND, new InstrumentInfo("Tambourine", "F#6 - F#8"));
+        INSTRUMENT_CACHE.put(Blocks.BREWING_STAND, new InstrumentInfo("Tambourine", "F#5 - F#7"));
         INSTRUMENT_CACHE.put(Blocks.RAW_GOLD_BLOCK, new InstrumentInfo("Gong", "F#2 - F#4"));
+        INSTRUMENT_CACHE.put(Blocks.POLISHED_DEEPSLATE, new InstrumentInfo("Hard Punchy Kick", "F#1 - F#3"));
 
         // Sustained Sounds
         INSTRUMENT_CACHE.put(Blocks.RED_CONCRETE, new InstrumentInfo("Sawtooth Synth", "F#-1 - F#9"));
         INSTRUMENT_CACHE.put(Blocks.ORANGE_CONCRETE, new InstrumentInfo("Electone Trombone", "F#-1 - F#9"));
         INSTRUMENT_CACHE.put(Blocks.YELLOW_CONCRETE, new InstrumentInfo("GB_SQR Synth", "F#-1 - F#9"));
         INSTRUMENT_CACHE.put(Blocks.LIME_CONCRETE, new InstrumentInfo("GB_SAW Synth", "F#-1 - F#9"));
+        INSTRUMENT_CACHE.put(Blocks.GREEN_CONCRETE, new InstrumentInfo("Saxophone Synth", "F#-1 - F#9"));
     }
 
     @SubscribeEvent
