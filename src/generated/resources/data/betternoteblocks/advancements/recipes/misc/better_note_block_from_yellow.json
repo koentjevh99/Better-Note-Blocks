@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "betternoteblocks:better_note_block_from_yellow"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_yellow_noteblock": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "betternoteblocks:yellow_note_block"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_yellow_noteblock",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "betternoteblocks:better_note_block_from_yellow"
+    ]
+  },
+  "sends_telemetry_event": false
+}

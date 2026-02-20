@@ -98,6 +98,9 @@ public class ModSounds {
     public static final RegistryObject<SoundEvent> GONG = SOUND_EVENTS.register("gong",
             () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "gong")));
 
+    public static final RegistryObject<SoundEvent> HARD_PUNCHY_KICK = SOUND_EVENTS.register("hard_punchy_kick",
+            () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "hard_punchy_kick")));
+
 
     // Sustained sounds
 
@@ -145,52 +148,73 @@ public class ModSounds {
             () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "ym_electone_trombone_air_hi")));
 
 
-    public static final RegistryObject<SoundEvent> gb_sqr_SB_LO = SOUND_EVENTS.register("gb_sqr_subbass_lo",
+    public static final RegistryObject<SoundEvent> GB_SQR_SB_LO = SOUND_EVENTS.register("gb_sqr_subbass_lo",
             () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "gb_sqr_subbass_lo")));
-    public static final RegistryObject<SoundEvent> gb_sqr_SB_HI = SOUND_EVENTS.register("gb_sqr_subbass_hi",
+    public static final RegistryObject<SoundEvent> GB_SQR_SB_HI = SOUND_EVENTS.register("gb_sqr_subbass_hi",
             () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "gb_sqr_subbass_hi")));
-    public static final RegistryObject<SoundEvent> gb_sqr_B_LO = SOUND_EVENTS.register("gb_sqr_bass_lo",
+    public static final RegistryObject<SoundEvent> GB_SQR_B_LO = SOUND_EVENTS.register("gb_sqr_bass_lo",
             () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "gb_sqr_bass_lo")));
-    public static final RegistryObject<SoundEvent> gb_sqr_B_HI = SOUND_EVENTS.register("gb_sqr_bass_hi",
+    public static final RegistryObject<SoundEvent> GB_SQR_B_HI = SOUND_EVENTS.register("gb_sqr_bass_hi",
             () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "gb_sqr_bass_hi")));
-    public static final RegistryObject<SoundEvent> gb_sqr_M_LO = SOUND_EVENTS.register("gb_sqr_mid_lo",
+    public static final RegistryObject<SoundEvent> GB_SQR_M_LO = SOUND_EVENTS.register("gb_sqr_mid_lo",
             () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "gb_sqr_mid_lo")));
-    public static final RegistryObject<SoundEvent> gb_sqr_M_HI = SOUND_EVENTS.register("gb_sqr_mid_hi",
+    public static final RegistryObject<SoundEvent> GB_SQR_M_HI = SOUND_EVENTS.register("gb_sqr_mid_hi",
             () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "gb_sqr_mid_hi")));
-    public static final RegistryObject<SoundEvent> gb_sqr_L_LO = SOUND_EVENTS.register("gb_sqr_lead_lo",
+    public static final RegistryObject<SoundEvent> GB_SQR_L_LO = SOUND_EVENTS.register("gb_sqr_lead_lo",
             () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "gb_sqr_lead_lo")));
-    public static final RegistryObject<SoundEvent> gb_sqr_L_HI = SOUND_EVENTS.register("gb_sqr_lead_hi",
+    public static final RegistryObject<SoundEvent> GB_SQR_L_HI = SOUND_EVENTS.register("gb_sqr_lead_hi",
             () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "gb_sqr_lead_hi")));
-    public static final RegistryObject<SoundEvent> gb_sqr_A_LO = SOUND_EVENTS.register("gb_sqr_air_lo",
+    public static final RegistryObject<SoundEvent> GB_SQR_A_LO = SOUND_EVENTS.register("gb_sqr_air_lo",
             () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "gb_sqr_air_lo")));
-    public static final RegistryObject<SoundEvent> gb_sqr_A_HI = SOUND_EVENTS.register("gb_sqr_air_hi",
+    public static final RegistryObject<SoundEvent> GB_SQR_A_HI = SOUND_EVENTS.register("gb_sqr_air_hi",
             () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "gb_sqr_air_hi")));
 
 
-    public static final RegistryObject<SoundEvent> gb_saw_SB_LO = SOUND_EVENTS.register("gb_saw_subbass_lo",
+    public static final RegistryObject<SoundEvent> GB_SAW_SB_LO = SOUND_EVENTS.register("gb_saw_subbass_lo",
             () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "gb_saw_subbass_lo")));
-    public static final RegistryObject<SoundEvent> gb_saw_SB_HI = SOUND_EVENTS.register("gb_saw_subbass_hi",
+    public static final RegistryObject<SoundEvent> GB_SAW_SB_HI = SOUND_EVENTS.register("gb_saw_subbass_hi",
             () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "gb_saw_subbass_hi")));
-    public static final RegistryObject<SoundEvent> gb_saw_B_LO = SOUND_EVENTS.register("gb_saw_bass_lo",
+    public static final RegistryObject<SoundEvent> GB_SAW_B_LO = SOUND_EVENTS.register("gb_saw_bass_lo",
             () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "gb_saw_bass_lo")));
-    public static final RegistryObject<SoundEvent> gb_saw_B_HI = SOUND_EVENTS.register("gb_saw_bass_hi",
+    public static final RegistryObject<SoundEvent> GB_SAW_B_HI = SOUND_EVENTS.register("gb_saw_bass_hi",
             () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "gb_saw_bass_hi")));
-    public static final RegistryObject<SoundEvent> gb_saw_M_LO = SOUND_EVENTS.register("gb_saw_mid_lo",
+    public static final RegistryObject<SoundEvent> GB_SAW_M_LO = SOUND_EVENTS.register("gb_saw_mid_lo",
             () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "gb_saw_mid_lo")));
-    public static final RegistryObject<SoundEvent> gb_saw_M_HI = SOUND_EVENTS.register("gb_saw_mid_hi",
+    public static final RegistryObject<SoundEvent> GB_SAW_M_HI = SOUND_EVENTS.register("gb_saw_mid_hi",
             () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "gb_saw_mid_hi")));
-    public static final RegistryObject<SoundEvent> gb_saw_L_LO = SOUND_EVENTS.register("gb_saw_lead_lo",
+    public static final RegistryObject<SoundEvent> GB_SAW_L_LO = SOUND_EVENTS.register("gb_saw_lead_lo",
             () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "gb_saw_lead_lo")));
-    public static final RegistryObject<SoundEvent> gb_saw_L_HI = SOUND_EVENTS.register("gb_saw_lead_hi",
+    public static final RegistryObject<SoundEvent> GB_SAW_L_HI = SOUND_EVENTS.register("gb_saw_lead_hi",
             () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "gb_saw_lead_hi")));
-    public static final RegistryObject<SoundEvent> gb_saw_A_LO = SOUND_EVENTS.register("gb_saw_air_lo",
+    public static final RegistryObject<SoundEvent> GB_SAW_A_LO = SOUND_EVENTS.register("gb_saw_air_lo",
             () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "gb_saw_air_lo")));
-    public static final RegistryObject<SoundEvent> gb_saw_A_HI = SOUND_EVENTS.register("gb_saw_air_hi",
+    public static final RegistryObject<SoundEvent> GB_SAW_A_HI = SOUND_EVENTS.register("gb_saw_air_hi",
             () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "gb_saw_air_hi")));
 
 
-    // Custom blocks
+    public static final RegistryObject<SoundEvent> SAXOPHONE_SYNTH_SB_LO = SOUND_EVENTS.register("saxophone_synth_subbass_lo",
+            () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "saxophone_synth_subbass_lo")));
+    public static final RegistryObject<SoundEvent> SAXOPHONE_SYNTH_SB_HI = SOUND_EVENTS.register("saxophone_synth_subbass_hi",
+            () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "saxophone_synth_subbass_hi")));
+    public static final RegistryObject<SoundEvent> SAXOPHONE_SYNTH_B_LO = SOUND_EVENTS.register("saxophone_synth_bass_lo",
+            () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "saxophone_synth_bass_lo")));
+    public static final RegistryObject<SoundEvent> SAXOPHONE_SYNTH_B_HI = SOUND_EVENTS.register("saxophone_synth_bass_hi",
+            () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "saxophone_synth_bass_hi")));
+    public static final RegistryObject<SoundEvent> SAXOPHONE_SYNTH_M_LO = SOUND_EVENTS.register("saxophone_synth_mid_lo",
+            () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "saxophone_synth_mid_lo")));
+    public static final RegistryObject<SoundEvent> SAXOPHONE_SYNTH_M_HI = SOUND_EVENTS.register("saxophone_synth_mid_hi",
+            () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "saxophone_synth_mid_hi")));
+    public static final RegistryObject<SoundEvent> SAXOPHONE_SYNTH_L_LO = SOUND_EVENTS.register("saxophone_synth_lead_lo",
+            () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "saxophone_synth_lead_lo")));
+    public static final RegistryObject<SoundEvent> SAXOPHONE_SYNTH_L_HI = SOUND_EVENTS.register("saxophone_synth_lead_hi",
+            () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "saxophone_synth_lead_hi")));
+    public static final RegistryObject<SoundEvent> SAXOPHONE_SYNTH_A_LO = SOUND_EVENTS.register("saxophone_synth_air_lo",
+            () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "saxophone_synth_air_lo")));
+    public static final RegistryObject<SoundEvent> SAXOPHONE_SYNTH_A_HI = SOUND_EVENTS.register("saxophone_synth_air_hi",
+            () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "saxophone_synth_air_hi")));
 
+
+    // Custom blocks
     public static final RegistryObject<SoundEvent> BA = SOUND_EVENTS.register("ba",
             () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(betternoteblocks.MODID, "ba")));
 

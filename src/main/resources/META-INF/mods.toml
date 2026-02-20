@@ -5,8 +5,9 @@ mixin.config = "betternoteblocks.mixins.json"
 
 [[mods]]
 modId = "betternoteblocks"
-version = "1.0.0"
+version = "1.0.1"
 displayName = "Better Note Blocks"
+displayTest = "MATCH_VERSION"
 authors = "Koentje"
 description = '''
 Adds 15 new note block colors, tons of new instruments, and quality-of-life improvements.
@@ -21,8 +22,8 @@ Adds 15 new note block colors, tons of new instruments, and quality-of-life impr
 
 [[dependencies.betternoteblocks]]
     modId="minecraft"
-    mandatory=true
-    versionRange="[1.20.1,1.21)"
-    ordering="NONE"
+mandatory = true
+versionRange = "[1.20.1]"
+ordering = "NONE"
     side="BOTH"
 

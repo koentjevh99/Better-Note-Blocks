@@ -44,12 +44,14 @@ public class InstrumentMapper {
         if (stateBelow.is(Blocks.BREWING_STAND)) return BetterInstruments.TAMBOURINE;
         if (stateBelow.is(Blocks.SLIME_BLOCK)) return BetterInstruments.GROAN_TUBE;
         if (stateBelow.is(Blocks.RAW_GOLD_BLOCK)) return BetterInstruments.GONG;
+        if (stateBelow.is(Blocks.POLISHED_DEEPSLATE)) return BetterInstruments.HARD_PUNCHY_KICK;
 
         // Sustained Sounds (synth)
         if (stateBelow.is(Blocks.RED_CONCRETE)) return BetterInstruments.FLANGED_SAWTOOTH;
         if (stateBelow.is(Blocks.ORANGE_CONCRETE)) return BetterInstruments.YM_ELECTONE_TROMBONE;
         if (stateBelow.is(Blocks.YELLOW_CONCRETE)) return BetterInstruments.GB_SQR;
         if (stateBelow.is(Blocks.LIME_CONCRETE)) return BetterInstruments.GB_SAW;
+        if (stateBelow.is(Blocks.GREEN_CONCRETE)) return BetterInstruments.SAXOPHONE_SYNTH;
 
 
         //modded blocks
@@ -105,6 +107,7 @@ public class InstrumentMapper {
             case TAMBOURINE -> ModSounds.TAMBOURINE.get();
             case GROAN_TUBE -> ModSounds.GROAN_TUBE.get();
             case GONG -> ModSounds.GONG.get();
+            case HARD_PUNCHY_KICK -> ModSounds.HARD_PUNCHY_KICK.get();
 
             // Special Easter Egg Sound
             case RAINBOW -> net.minecraft.sounds.SoundEvents.BEACON_ACTIVATE;

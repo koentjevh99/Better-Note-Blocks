@@ -6,11 +6,6 @@
         "items": [
           {
             "items": [
-              "betternoteblocks:green_note_block"
-            ]
-          },
-          {
-            "items": [
               "betternoteblocks:yellow_note_block"
             ]
           },
@@ -21,32 +16,7 @@
           },
           {
             "items": [
-              "betternoteblocks:gray_note_block"
-            ]
-          },
-          {
-            "items": [
-              "betternoteblocks:magenta_note_block"
-            ]
-          },
-          {
-            "items": [
-              "betternoteblocks:white_note_block"
-            ]
-          },
-          {
-            "items": [
-              "betternoteblocks:light_blue_note_block"
-            ]
-          },
-          {
-            "items": [
-              "betternoteblocks:pink_note_block"
-            ]
-          },
-          {
-            "items": [
-              "betternoteblocks:purple_note_block"
+              "betternoteblocks:blue_note_block"
             ]
           },
           {
@@ -56,7 +26,12 @@
           },
           {
             "items": [
-              "betternoteblocks:lime_note_block"
+              "betternoteblocks:pink_note_block"
+            ]
+          },
+          {
+            "items": [
+              "betternoteblocks:gray_note_block"
             ]
           },
           {
@@ -66,7 +41,22 @@
           },
           {
             "items": [
-              "betternoteblocks:blue_note_block"
+              "betternoteblocks:purple_note_block"
+            ]
+          },
+          {
+            "items": [
+              "betternoteblocks:white_note_block"
+            ]
+          },
+          {
+            "items": [
+              "betternoteblocks:green_note_block"
+            ]
+          },
+          {
+            "items": [
+              "betternoteblocks:magenta_note_block"
             ]
           },
           {
@@ -77,6 +67,16 @@
           {
             "items": [
               "betternoteblocks:cyan_note_block"
+            ]
+          },
+          {
+            "items": [
+              "betternoteblocks:lime_note_block"
+            ]
+          },
+          {
+            "items": [
+              "betternoteblocks:light_blue_note_block"
             ]
           }
         ]

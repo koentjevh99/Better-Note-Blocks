@@ -18,6 +18,8 @@ import net.minecraftforge.fml.ModList;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import net.minecraftforge.network.NetworkRegistry;
+import net.minecraftforge.network.simple.SimpleChannel;
 
 import java.nio.file.Path;
 
@@ -25,6 +27,14 @@ import java.nio.file.Path;
 
 @Mod(betternoteblocks.MODID)
 public class betternoteblocks {
+
+    private static final String PROTOCOL_VERSION = "1.0.1"; //mod version
+    public static final SimpleChannel INSTANCE = NetworkRegistry.newSimpleChannel(
+            new ResourceLocation("betternoteblocks", "main"),
+            () -> PROTOCOL_VERSION,
+            PROTOCOL_VERSION::equals,
+            PROTOCOL_VERSION::equals
+    );
     public static final String MODID = "betternoteblocks";
 
     public betternoteblocks() {

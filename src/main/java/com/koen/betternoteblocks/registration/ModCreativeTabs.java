@@ -2,17 +2,16 @@ package com.koen.betternoteblocks.registration;
 
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
+import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.DyeColor;
 import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
-import net.minecraftforge.registries.RegistryObject;
-
-import net.minecraft.resources.ResourceLocation;
 import net.minecraftforge.registries.ForgeRegistries;
-import net.minecraft.world.level.block.Block;
+import net.minecraftforge.registries.RegistryObject;
 
 //Creative tab logic
 
@@ -71,11 +70,13 @@ public class ModCreativeTabs {
                 output.accept(Blocks.WHITE_GLAZED_TERRACOTTA);            // Phonk Cowbell Crystal
                 output.accept(Blocks.BREWING_STAND);            // Tambourine
                 output.accept(Blocks.RAW_GOLD_BLOCK);            // Gong
+                output.accept(Blocks.POLISHED_DEEPSLATE);            // Hard Punchy Kick
                 output.accept(Blocks.BEACON);            // EE
                 output.accept(Blocks.RED_CONCRETE);            // Sawtooth synth
                 output.accept(Blocks.ORANGE_CONCRETE);            // ym electone trombone
                 output.accept(Blocks.YELLOW_CONCRETE);            // GB_SQR synth
-                output.accept(Blocks.LIME_CONCRETE);            // GB-SAW trombone
+                output.accept(Blocks.LIME_CONCRETE);            // GB-SAW synth
+                output.accept(Blocks.GREEN_CONCRETE);            // Saxophone Synth
 
                 Block babaBlock = ForgeRegistries.BLOCKS.getValue(new ResourceLocation("ba", "baba"));
                 if (babaBlock != null && babaBlock != Blocks.AIR) {

@@ -41,31 +41,32 @@ Using this together with Better Note Blocks lets you play any MIDI file!
 |:----------------------------|:----------------------|:----------|
 | **Amethyst Block**          | Music Box             | F#4 - F#6 |
 | **Redstone Ore**            | Electric Guitar       | F#3 - F#5 |
-| **Black Stained Glass**     | Hi-Hat                | F#3 - F#5 |
+| **Black Stained Glass**     | Hi-Hat                | F#6 - F#8 |
 | **Obsidian**                | Synth Stab            | F#3 - F#5 |
 | **Deepslate**               | Kick Stomp            | F#2 - F#4 |
-| **Gilded Blackstone**       | Orchestral Hit        | F#4 - F#6 |
+| **Gilded Blackstone**       | Orchestral Hit        | F#3 - F#5 |
 | **Netherite Block**         | Metal Pipe            | F#4 - F#6 |
-| **Sandstone Block**         | Brawl Kick            | F#2 - F#4 |
+| **Sandstone Block**         | Brawl Kick            | F#1 - F#3 |
 | **Raw Copper Block**        | Crash                 | F#1 - F#3 |
 | **Beehive**                 | Acoustic Tom          | F#1 - F#3 |
 | **Cauldron**                | Holy Choir            | F#4 - F#6 |
-| **Composter**               | Wood Block            | F#2 - F#4 |
-| **Polished Basalt**         | Hardstyle Kick        | F#1 - F#3 |
+| **Composter**               | Wood Block            | F#4 - F#6 |
+| **Polished Basalt**         | Hardstyle Kick        | F#0 - F#2 |
 | **Diamond Block**           | Triangle              | F#6 - F#8 |
 | **Reinforced Deepslate**    | Synth Bass            | F#0 - F#2 |
-| **Lodestone**               | Timpani               | F#1 - F#3 |
+| **Lodestone**               | Timpani               | F#2 - F#4 |
 | **Chiseled Stone Bricks**   | Aztek Psy Drum        | F#3 - F#5 |
-| **Wet Sponge**              | Bloop Noise           | F#3 - F#5 |
-| **Red Sand**                | Snare                 | F#3 - F#5 |
-| **Sea Lantern**             | Kalimba               | F#2 - F#4 |
+| **Wet Sponge**              | Bloop Noise           | F#4 - F#6 |
+| **Red Sand**                | Snare                 | F#4 - F#6 |
+| **Sea Lantern**             | Kalimba               | F#3 - F#5 |
 | **Calcite**                 | Finger Snap           | F#5 - F#7 |
 | **Gravel**                  | Classic Clap          | F#3 - F#5 |
 | **Ochre Froglight**         | Bongo                 | F#2 - F#4 |
 | **Loom**                    | Afro Harp             | F#2 - F#4 |
 | **White Glazed Terracotta** | Phonk Cowbell Crystal | F#4 - F#6 |
-| **Brewing Stand**           | Tambourine            | F#6 - F#8 |
+| **Brewing Stand**           | Tambourine            | F#5 - F#7 |
 | **Raw Gold Block**          | Gong                  | F#2 - F#4 |
+| **Polished Deepslate**      | Hard Punchy Kick      | F#2 - F#4 |
 
 ### Sustained Synths
 
@@ -75,6 +76,7 @@ Using this together with Better Note Blocks lets you play any MIDI file!
 | **Orange Concrete** | Electone Trombone | F#-1 - F#9 |
 | **Yellow Concrete** | GB_SQR Synth      | F#-1 - F#9 |
 | **Lime Concrete**   | GB_SAW Synth      | F#-1 - F#9 |
+| **Lime Concrete**   | Saxophone Synth   | F#-1 - F#9 |
 
 ### Synth information
 

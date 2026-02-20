@@ -137,23 +137,114 @@
   "groan_tube": {
     "subtitle": "Note Block plays",
     "category": "record",
-    "sounds": [ "betternoteblocks:groan_tube"]
+    "sounds": [
+      "betternoteblocks:groan_tube"
+    ]
   },
   "gong": {
     "subtitle": "Note Block plays",
     "category": "record",
-    "sounds": [ "betternoteblocks:gong"]
+    "sounds": [
+      "betternoteblocks:gong"
+    ]
   },
-
-  "flanged_sawtooth_subbass_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:flanged_sawtooth_synth_sustain/subbass_lo", "volume": 0.25, "attenuation_distance": 64 } ] },
-  "flanged_sawtooth_subbass_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:flanged_sawtooth_synth_sustain/subbass_hi", "volume": 0.25, "attenuation_distance": 64 } ] },
-  "flanged_sawtooth_bass_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:flanged_sawtooth_synth_sustain/bass_lo", "volume": 0.25, "attenuation_distance": 64 } ] },
-  "flanged_sawtooth_bass_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:flanged_sawtooth_synth_sustain/bass_hi", "volume": 0.25, "attenuation_distance": 64 } ] },
-  "flanged_sawtooth_mid_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:flanged_sawtooth_synth_sustain/mid_lo", "volume": 0.25, "attenuation_distance": 64 } ] },
-  "flanged_sawtooth_mid_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:flanged_sawtooth_synth_sustain/mid_hi", "volume": 0.25, "attenuation_distance": 64 } ] },
-  "flanged_sawtooth_lead_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:flanged_sawtooth_synth_sustain/lead_lo", "volume": 0.25, "attenuation_distance": 64 } ] },
-  "flanged_sawtooth_lead_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:flanged_sawtooth_synth_sustain/lead_hi", "volume": 0.25, "attenuation_distance": 64 } ] },
-  "flanged_sawtooth_air_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:flanged_sawtooth_synth_sustain/air_lo", "volume": 0.25, "attenuation_distance": 64 } ] },
+  "hard_punchy_kick": {
+    "subtitle": "Note Block plays",
+    "category": "record",
+    "sounds": [
+      "betternoteblocks:hard_punchy_kick"
+    ]
+  },
+  "flanged_sawtooth_subbass_lo": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:flanged_sawtooth_synth_sustain/subbass_lo",
+        "volume": 0.25,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "flanged_sawtooth_subbass_hi": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:flanged_sawtooth_synth_sustain/subbass_hi",
+        "volume": 0.25,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "flanged_sawtooth_bass_lo": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:flanged_sawtooth_synth_sustain/bass_lo",
+        "volume": 0.25,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "flanged_sawtooth_bass_hi": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:flanged_sawtooth_synth_sustain/bass_hi",
+        "volume": 0.25,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "flanged_sawtooth_mid_lo": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:flanged_sawtooth_synth_sustain/mid_lo",
+        "volume": 0.25,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "flanged_sawtooth_mid_hi": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:flanged_sawtooth_synth_sustain/mid_hi",
+        "volume": 0.25,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "flanged_sawtooth_lead_lo": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:flanged_sawtooth_synth_sustain/lead_lo",
+        "volume": 0.25,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "flanged_sawtooth_lead_hi": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:flanged_sawtooth_synth_sustain/lead_hi",
+        "volume": 0.25,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "flanged_sawtooth_air_lo": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:flanged_sawtooth_synth_sustain/air_lo",
+        "volume": 0.25,
+        "attenuation_distance": 64
+      }
+    ]
+  },
   "flanged_sawtooth_air_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:flanged_sawtooth_synth_sustain/air_hi", "volume": 0.25, "attenuation_distance": 64 } ] },
 
 
@@ -179,16 +270,204 @@
   "gb_sqr_lead_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_sqr/lead_hi", "volume": 1, "attenuation_distance": 64 } ] },
   "gb_sqr_air_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_sqr/air_lo", "volume": 1, "attenuation_distance": 64 } ] },
   "gb_sqr_air_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_sqr/air_hi", "volume": 1, "attenuation_distance": 64 } ] },
-
-
-  "gb_saw_subbass_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_saw/subbass_lo", "volume": 1, "attenuation_distance": 64 } ] },
-  "gb_saw_subbass_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_saw/subbass_hi", "volume": 1, "attenuation_distance": 64 } ] },
-  "gb_saw_bass_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_saw/bass_lo", "volume": 1, "attenuation_distance": 64 } ] },
-  "gb_saw_bass_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_saw/bass_hi", "volume": 1, "attenuation_distance": 64 } ] },
-  "gb_saw_mid_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_saw/mid_lo", "volume": 1, "attenuation_distance": 64 } ] },
-  "gb_saw_mid_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_saw/mid_hi", "volume": 1, "attenuation_distance": 64 } ] },
-  "gb_saw_lead_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_saw/lead_lo", "volume": 1, "attenuation_distance": 64 } ] },
-  "gb_saw_lead_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_saw/lead_hi", "volume": 1, "attenuation_distance": 64 } ] },
-  "gb_saw_air_lo": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_saw/air_lo", "volume": 1, "attenuation_distance": 64 } ] },
-  "gb_saw_air_hi": { "category": "record", "sounds": [ { "name": "betternoteblocks:gb_saw/air_hi", "volume": 1, "attenuation_distance": 64 } ] }
+  "gb_saw_subbass_lo": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:gb_saw/subbass_lo",
+        "volume": 1,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "gb_saw_subbass_hi": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:gb_saw/subbass_hi",
+        "volume": 1,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "gb_saw_bass_lo": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:gb_saw/bass_lo",
+        "volume": 1,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "gb_saw_bass_hi": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:gb_saw/bass_hi",
+        "volume": 1,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "gb_saw_mid_lo": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:gb_saw/mid_lo",
+        "volume": 1,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "gb_saw_mid_hi": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:gb_saw/mid_hi",
+        "volume": 1,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "gb_saw_lead_lo": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:gb_saw/lead_lo",
+        "volume": 1,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "gb_saw_lead_hi": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:gb_saw/lead_hi",
+        "volume": 1,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "gb_saw_air_lo": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:gb_saw/air_lo",
+        "volume": 1,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "gb_saw_air_hi": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:gb_saw/air_hi",
+        "volume": 1,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "saxophone_synth_subbass_lo": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:saxophone/subbass_lo",
+        "volume": 1,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "saxophone_synth_subbass_hi": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:saxophone/subbass_hi",
+        "volume": 1,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "saxophone_synth_bass_lo": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:saxophone/bass_lo",
+        "volume": 1,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "saxophone_synth_bass_hi": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:saxophone/bass_hi",
+        "volume": 1,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "saxophone_synth_mid_lo": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:saxophone/mid_lo",
+        "volume": 1,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "saxophone_synth_mid_hi": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:saxophone/mid_hi",
+        "volume": 1,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "saxophone_synth_lead_lo": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:saxophone/lead_lo",
+        "volume": 1,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "saxophone_synth_lead_hi": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:saxophone/lead_hi",
+        "volume": 1,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "saxophone_synth_air_lo": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:saxophone/air_lo",
+        "volume": 1,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "saxophone_synth_air_hi": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "betternoteblocks:saxophone/air_hi",
+        "volume": 1,
+        "attenuation_distance": 64
+      }
+    ]
+  }
 }
